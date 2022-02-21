@@ -1,0 +1,212 @@
+.header{
+	width: 100.5%;
+	background-color: white;
+	opacity: 70%;
+	margin-top: -16px;
+}
+
+.header ul{
+	text-align: center;
+}
+
+.header ul li{
+	list-style: none;
+	display: inline-block;
+}
+
+.header ul li a{
+	display: block;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: black;
+	font-size: 18px;
+	font-weight: 500;
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 2px;
+	padding: 25px;
+	transition: all ease 0.5s;
+}
+
+.header ul li a: hover{
+	background-color: #211b4385;
+}
+
+.headerr{
+	width: 100.5%;
+	background-color: #ececec;
+	opacity: 70%;
+	margin-top: -16px;
+}
+
+.headerr ul{
+	text-align: center;
+}
+
+.headerr ul li{
+	list-style: none;
+	display: inline-block;
+}
+
+.headerr ul li a{
+	display: block;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: black;
+	font-size: 18px;
+	font-weight: 500;
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 2px;
+	padding: 25px;
+	transition: all ease 0.5s;
+}
+
+.header ul li a: hover{
+	background-color: #211b4385;
+}
+.welcome h1{
+	font-family: 'Raleway', sans-serif;
+	font-size: 55px;
+	color: white;
+	margin-top: 70px;
+	margin-left: 40px;
+
+}
+
+.welcome h2{
+	font-family: 'Raleway', sans-serif;
+	color: white;
+	margin-left: 40px;
+}
+
+.welcome button{
+	border: 1px solid white;
+	background : none;
+	padding: 10px 20px;
+	font-size: 20px;
+	color : white;
+	font-family: 'Raleway', sans-serif;
+	cursor: pointer;
+	margin: 7px;
+	margin-left: 40px;
+}
+
+.intro h1{
+	font-family: 'PT Sans', sans-serif;
+	text-align: center;
+	margin-top: 7%;
+	letter-spacing: 1px;
+}
+
+.intro img{
+	width: 250px;
+	height: 250px;
+	margin-left: 40%;
+}
+
+.intro p{
+	font-family: 'PT Sans', sans-serif;
+	text-align: center;
+}
+
+.pendidikan h1{
+	font-family: 'PT Sans', sans-serif;
+	margin-left: 30%;
+	margin-top: 6%;
+	letter-spacing: 1px;
+}
+
+.pendidikan ul li{
+	font-family: 'PT Sans', sans-serif;
+	margin-left: 30%;
+	font-size: 18px;
+}
+* {
+  font-family: sans-serif; 
+}
+
+.judul h1{
+	text-align: center;
+	font-family: 'PT Sans', sans-serif;
+}
+.table1 {
+  	border-collapse: collapse;
+ 	margin: 25px 0;
+ 	font-size: 0.9em;
+  	min-width: 400px;
+  	border-radius: 5px 5px 0 0;
+  	overflow: hidden;
+  	box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+.table1 thead tr {
+  background-color: #009879;
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+}
+
+.table1 th,
+.table1 td {
+  padding: 12px 15px;
+}
+
+.table1 tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.table1 tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+.table1 tbody tr:last-of-type {
+  border-bottom: 2px solid #009879;
+}
+
+.table1 tbody tr.active-row {
+  font-weight: bold;
+  color: #009879;
+}
+
+.content-tablee {
+  	border-collapse: collapse;
+ 	margin: 25px 0;
+ 	font-size: 0.9em;
+  	min-width: 400px;
+  	border-radius: 5px 5px 0 0;
+  	overflow: hidden;
+  	box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  	margin-left: auto;
+  	margin-right: auto;
+  	margin-top: 7%;
+}
+
+.content-tablee thead tr {
+  background-color: #009879;
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+}
+
+.content-tablee th,
+.content-tablee td {
+  padding: 12px 15px;
+}
+
+.content-tablee tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.content-tablee tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+.content-tablee tbody tr:last-of-type {
+  border-bottom: 2px solid #009879;
+}
+
+.content-tablee tbody tr.active-row {
+  font-weight: bold;
+  color: #009879;
+}
